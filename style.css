@@ -1,0 +1,10 @@
+#ball{
+	width: 15vw;
+	height: 15vw;
+	/*background-color: pink;*/
+	border-radius: 50%;
+	position: absolute;
+	top: 45%;
+	left: 45%;
+	background-image: linear-gradient(180deg,#ab0c66, #ecd16d);
+}
